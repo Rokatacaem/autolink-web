@@ -47225,7 +47225,7 @@ A.at1.prototype={
 $1(a){return A.aKq()},
 $S:433}
 A.mM.prototype={
-a4q(){var s,r="application/json",q=A.aKA("http://192.168.1.27:8000/api/v1",B.mI,A.az(["Content-Type",r,"Accept",r],t.N,t.z),B.mI),p=new A.Mi(A.b([B.Bw],t.i6))
+a4q(){var s,r="application/json",q=A.aKA("https://auto-link-steel.vercel.app/api/v1",B.mH,A.az(["Content-Type",r,"Accept",r],t.N,t.z),B.mH),p=new A.Mi(A.b([B.Bw],t.i6))
 p.K(p,B.It)
 s=new A.a3H($,p,$,new A.a7d(51200),!1)
 s.VS$=q
@@ -55530,7 +55530,7 @@ p=t.Y
 k=$.aHm()
 j=p.h("eS<as.T>")
 h.ay=new A.ay(m.a(n),new A.eS(k,new A.aA(s*0.3,s+5,p),j),j.h("ay<as.T>"))
-q=A.ce(i,B.mH,i,i,q)
+q=A.ce(i,B.mI,i,i,q)
 q.b9()
 j=q.cn$
 j.b=!0
@@ -55557,7 +55557,7 @@ s.c0(0)
 s=this.db
 s===$&&A.a()
 s.z=B.at
-s.jR(1,B.ac,B.mH)},
+s.jR(1,B.ac,B.mI)},
 aF(a){var s,r=this,q=r.cx
 q===$&&A.a()
 q.fg(0)
@@ -94557,14 +94557,14 @@ B.mG=new A.aT(25e4)
 B.EX=new A.aT(2961926e3)
 B.bM=new A.aT(3e5)
 B.EY=new A.aT(3e6)
-B.mH=new A.aT(375e3)
+B.mH=new A.aT(3e7)
+B.mI=new A.aT(375e3)
 B.EZ=new A.aT(4e4)
 B.iT=new A.aT(4e5)
 B.dN=new A.aT(4e6)
 B.F_=new A.aT(45e3)
 B.F0=new A.aT(5e4)
 B.co=new A.aT(5e5)
-B.mI=new A.aT(5e6)
 B.dO=new A.aT(6e5)
 B.mJ=new A.aT(7e4)
 B.iU=new A.aT(75e3)
